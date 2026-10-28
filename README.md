@@ -20,6 +20,8 @@
   </picture>
 </p>
 
+I'm interested in how software becomes useful in the physical world: understanding a request, interpreting sensor data, taking an action, and checking what actually happened. At UWA I study Software Engineering and Finance, and my 2026 thesis is OpenBot for the Unitree G1. I'm looking for internships in robotics integration, perception and testing.
+
 ### Selected work
 
 **[OpenBot for Unitree G1](https://github.com/enqinghayashi/OpenBot-UnitreeG1)**  
