@@ -20,7 +20,7 @@
   </picture>
 </p>
 
-I'm interested in how software becomes useful in the physical world: understanding a request, interpreting sensor data, taking an action, and checking what actually happened. At UWA I study Software Engineering and Finance, and my 2026 thesis is OpenBot for the Unitree G1. I'm looking for internships in robotics integration, perception and testing.
+I build software to turn ideas into things that exist outside my head. Most of that work sits in embodied intelligence — training and evaluating models, then getting a humanoid to perceive, decide, and move. I study software engineering and finance, two fields that reward the same instinct: find the constraint, design around it. I learn faster with a blank repo and a hard problem than with a syllabus, and I'd rather ship something rough than defend a plan I haven't tested.
 
 ### Stack
 
