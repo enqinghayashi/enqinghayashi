@@ -30,26 +30,68 @@ I'm interested in how software becomes useful in the physical world: understandi
 
 ### Selected work
 
-**[OpenBot for Unitree G1](https://github.com/enqinghayashi/OpenBot-UnitreeG1)**  
-Language-driven planner and deterministic skills on a Unitree G1 — verified in sim and on hardware.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/OpenBot-UnitreeG1">OpenBot for Unitree G1</a></b><br/>
+      A harness for embodied language agents on the Unitree G1 humanoid: deterministic skills, typed tools, measurement-based verification.
+    </td>
+  </tr>
+</table>
 
-**[Street Number Recognition](https://github.com/enqinghayashi/Street_Sign_Detector)**  
-YOLO finds the digits, EfficientNet-B0 reads them, the pipeline rebuilds the number left to right.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/Street_Sign_Detector">Street Number Recognition</a></b><br/>
+      Two-stage street-number OCR: YOLO detects digit boxes, EfficientNet-B0 classifies each crop, and the pipeline reconstructs the number left-to-right. Includes an end-to-end EfficientNet baseline with five character heads.
+    </td>
+  </tr>
+</table>
 
-**[Rankd](https://github.com/enqinghayashi/Rankd-Music_Rating_AWS)**  
-Flask + Spotify rating app, containerised and deployed on AWS ECS Fargate with RDS.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/Rankd-Music_Rating_AWS">Rankd</a></b><br/>
+      Full-stack music rating platform built with Flask and Spotify. Rate tracks, albums, and artists, compare scores with friends, and turn listening history into personal stats — containerized with Docker and deployed on AWS ECS Fargate with RDS, ALB, and CloudWatch.
+    </td>
+  </tr>
+</table>
 
-**[Mini Bitcoin](https://github.com/enqinghayashi/Bitcoin_miniBlockchain)**  
-Proof-of-work, UTXO, ECDSA and three-node P2P sync — Bitcoin's core in Go.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/Bitcoin_miniBlockchain">Mini Bitcoin</a></b><br/>
+      Educational mini-Bitcoin in Go: proof-of-work blocks, UTXO transactions with ECDSA signatures, Merkle roots, BoltDB persistence, a CLI, and three-node P2P sync.
+    </td>
+  </tr>
+</table>
 
-**[Academic Score Ledger](https://github.com/enqinghayashi/AcademicScoreLedger)**  
-A Solidity score ledger with role-based access: owner, TA, students, scoped reads.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/AcademicScoreLedger">Academic Score Ledger</a></b><br/>
+      A compact Solidity score ledger with role-based access: the owner manages one TA, the TA records 0–100 scores, and students can read only their own results.
+    </td>
+  </tr>
+</table>
 
-**[2D Battleship](https://github.com/enqinghayashi/2D-Battleship_Game)**  
-Networked Battleship in Python with an encrypted protocol, lobby chat and reconnection.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/2D-Battleship_Game">2D Battleship</a></b><br/>
+      Networked Battleship in Python with single-player and two-player modes, an encrypted binary protocol, lobby chat, server-side game persistence, and 60-second reconnection.
+    </td>
+  </tr>
+</table>
 
-**[Bloom Filter](https://github.com/enqinghayashi/Bloom_Filter)**  
-A Bloom filter in Python with SHA-256 double hashing and optimal bit sizing.
+<table width="100%">
+  <tr>
+    <td>
+      <b><a href="https://github.com/enqinghayashi/Bloom_Filter">Bloom Filter</a></b><br/>
+      A compact Bloom filter in Python with SHA-256 double hashing, optimal bit sizing, and a memory-efficient bytearray for probabilistic check-ins.
+    </td>
+  </tr>
+</table>
 
 ---
 
