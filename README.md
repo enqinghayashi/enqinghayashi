@@ -1,23 +1,16 @@
 ```text
-  leon@com ~ ❯ fastfetch
-  ────────────────────────────────────────────────────────────────
+  ● ● ●   leon@com: ~/work                                                    zsh · utf-8 · 98×12
+  ────────────────────────────────────────────────────────────────────────────────────────────────
+  ENQING (LEON) LIN                                             AU · BEng (Hons) + BCom '27
+  software · robotics · embodied ai                                            open to internships
 
-       ▄▄▄▄▄          ○───○           ▂▄▆          +----------+
-      █ ● ● █         │ \ │        ▂▄▆███          | >_       |
-      █  ▄  █         ○───○     ▂▄▆██████         | 1  fn()  |
-       ▀████▀         │ / │      █████████         +----------+
-       01 humanoid     02 llm        03 markets       04 software
+        01 HUMANOID                02 LLM                03 MARKETS             04 SOFTWARE
+          ▄▄▄▄▄▄▄                ○───○───○                     ▂▄▆              +----------+
+         █  ● ●  █               │ \ │ / │                  ▂▄▆███              | >_       |
+         █   ▄   █               ○───○───○               ▂▄▆██████              | 1  fn()  |
+         ▀███████▀               │ / │ \ │               █████████              +----------+
 
-  leon@com
-  ────────────────────────────────────────────────────────────────
-  OS       Software Engineering + Finance
-  Shell    zsh
-  Now      OpenBot for the Unitree G1
-  Stack    Python · C · Go · ROS 2 · PyTorch
-  Contact  enqinglin95@gmail.com
-  GitHub   github.com/enqinghayashi
-
-  leon@com ~ ❯ █
+  leon@com:~$ ./build --beyond-the-demo █
 ```
 
 <p align="center">
