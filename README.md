@@ -1,20 +1,19 @@
 ```text
-  leon@com ~ ❯ fastfetch                                                       zsh · 90×19
-  ────────────────────────────────────────────────────────────────────────────────────────
+  leon@com ~ ❯ fastfetch
+  ────────────────────────────────────────────────────────────────
 
-          ▄▄▄▄▄               ○───○───○                   ▂▄▆            +----------+
-         █ ● ● █              │ \ │ / │                ▂▄▆███            | >_       |
-         █  ▄  █              ○───○───○             ▂▄▆██████            | 1  fn()  |
-          ▀████▀              │ / │ \ │             █████████            +----------+
-       01 humanoid              02 llm              03 markets           04 software
+       ▄▄▄▄▄          ○───○           ▂▄▆          +----------+
+      █ ● ● █         │ \ │        ▂▄▆███          | >_       |
+      █  ▄  █         ○───○     ▂▄▆██████         | 1  fn()  |
+       ▀████▀         │ / │      █████████         +----------+
+       01 humanoid     02 llm        03 markets       04 software
 
   leon@com
-  ────────────────────────────────────────────────────────────────────────────────────────
+  ────────────────────────────────────────────────────────────────
   OS       Software Engineering + Finance
-  Shell    zsh · VS Code · Neovim
-  Now      OpenBot for the Unitree G1 — language-driven skills on a humanoid
-  Focus    humanoid · LLM · markets · software
-  Stack    Python · C · Go · ROS 2 · MuJoCo · PyTorch
+  Shell    zsh
+  Now      OpenBot for the Unitree G1
+  Stack    Python · C · Go · ROS 2 · PyTorch
   Contact  enqinglin95@gmail.com
   GitHub   github.com/enqinghayashi
 
