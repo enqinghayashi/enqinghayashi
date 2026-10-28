@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.svg" alt="Enqing (Leon) Lin — software, robotics and embodied AI" width="100%" />
+  <img src="profile-banner.png" alt="Enqing (Leon) Lin — software, robotics and embodied AI" width="100%" />
 </p>
 
 <p align="center">
