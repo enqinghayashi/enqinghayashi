@@ -22,6 +22,12 @@
 
 I'm interested in how software becomes useful in the physical world: understanding a request, interpreting sensor data, taking an action, and checking what actually happened. At UWA I study Software Engineering and Finance, and my 2026 thesis is OpenBot for the Unitree G1. I'm looking for internships in robotics integration, perception and testing.
 
+### Stack
+
+**Robotics** — `ROS 2` `MuJoCo` `PyTorch`  
+**Backend** — `Flask` `PostgreSQL` `Docker` `AWS`  
+**Languages** — `Python` `C` `Go` `SQL`
+
 ### Selected work
 
 **[OpenBot for Unitree G1](https://github.com/enqinghayashi/OpenBot-UnitreeG1)**  
@@ -48,7 +54,6 @@ A Bloom filter in Python with SHA-256 double hashing and optimal bit sizing.
 ---
 
 <p align="center">
-  <sub>Python · C · Go · ROS 2 · MuJoCo · PyTorch · Flask · PostgreSQL · Docker · AWS</sub><br/>
   <a href="mailto:enqinglin95@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/enqinghayashi?tab=repositories">All repositories</a>
 </p>
