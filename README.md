@@ -20,7 +20,7 @@
   </picture>
 </p>
 
-I build software to turn ideas into things that exist outside my head. Most of that work sits in embodied intelligence — training and evaluating models, then getting a humanoid to perceive, decide, and move. I study software engineering and finance, two fields that reward the same instinct: find the constraint, design around it. I learn faster with a blank repo and a hard problem than with a syllabus, and I'd rather ship something rough than defend a plan I haven't tested.
+I build software to turn ideas into things that exist outside my head. The biggest thing I can show so far is my work in embodied intelligence: training and evaluating models, then getting a humanoid to perceive, decide, and move. I study software engineering and finance, two fields that reward the same instinct: find the constraint, design around it. I learn faster with a blank repo and a hard problem than with a syllabus, and I'd rather ship something rough than defend a plan I haven't tested.
 
 ### Stack
 
